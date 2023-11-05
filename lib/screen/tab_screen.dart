@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:number_calculator_app/screen/convert_day_screen.dart';
 import 'package:number_calculator_app/screen/convert_discount_screen.dart';
 import 'package:number_calculator_app/screen/convert_english_screen.dart';
-import 'package:number_calculator_app/screen/convert_number_screen.dart';
+import 'package:number_calculator_app/screen/number/convert_number_screen.dart';
 
 class TabScreen extends StatefulWidget {
   const TabScreen({Key? key}) : super(key: key);
